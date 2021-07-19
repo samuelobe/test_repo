@@ -23,17 +23,17 @@ class _Page2State extends State<Page2> {
               Container(
                 height: 150,
                 width: 150,
-                color: Colors.green,
+                color: Colors.purple,
               ),
               Container(
                 height: 100,
                 width: 100,
-                color: Colors.blue,
+                color: Colors.yellow,
               ),
               Container(
                 height: 50,
                 width: 50,
-                color: Colors.red,
+                color: Colors.orange,
               ),
             ],
           ),
